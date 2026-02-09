@@ -17957,7 +17957,7 @@
   {
     "id": "clipboard-manager",
     "name": "Clipboard Manager",
-    "author": "Ayush Raj",
+    "author": "Ayush Raj" ,
     "description": "A clipboard manager that stores clipboard history and provides search functionality with real-time updates",
     "repo": "ayu5h-raj/clipboard-manager"
   },
@@ -19080,5 +19080,12 @@
     "author": "Shawn Duggan",
     "description": "Your AI writing partner that edits exactly where you want - select text and transform, or chat at cursor position.",
     "repo": "shawnduggan/nova"
+  },
+  {
+    "id": "traductor-interlineal",
+    "name": "Interlinear Translator Pro",
+    "author": "AdriHL",
+    "description": "Bilingual reading assistant. Displays translations below the text using Google Translate or Local AI (Ollama).",
+    "repo": "AdriHL/obsidian-traductor-interlineal"
   }
 ]
